@@ -1,4 +1,4 @@
-# GTFO-EXTERNAL-
+# GTFO-EXTERNAL
 
 **Simple external tool for a non-anti-cheat game using WinAPI**
 
