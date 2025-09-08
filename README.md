@@ -23,7 +23,7 @@ This project **GTFO-EXTERNAL-** is a minimalistic external tool written in C++ t
 
 1. Compile the project with your C++ environment (Visual Studio, etc.).
 2. Place the executable (`.exe`) in the same folder as your game.
-3. Run the `.exe` and press `INSERT` in-game to toggle *infinite ammo*.
+3. Run the `.exe` and press `F2` in-game to toggle *infinite ammo*.
 4. The console will display logs for activation/deactivation.
 
 ---
