@@ -12,7 +12,7 @@ This project **GTFO-EXTERNAL-** is a minimalistic external tool written in C++ t
 ## Features
 
 - **External memory manipulation** using WinAPI, no internal DLL injection required.
-- Hotkey toggles (e.g., `INSERT`) for features like *infinite ammo*.
+- Hotkey toggles (e.g., `F2`) for features like *infinite ammo*.
 - Read and write memory of the game process.
 - Console feedback using `std::cout` and sound notifications via `mciSendString()` (MP3/WAV support).
 - State check before applying or restoring patches.
